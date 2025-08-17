@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hii 👋 I'm Aryan Baranwal
+# 💫 About Me
 Hello, I'm Aryan.<br><br>I am a 3rd-year B.Tech student and a self-taught developer who enjoys building software and turning ideas into real projects. I work mostly on web development, and I’m currently improving my frontend and backend skills.<br><br>Right now I’m learning Full Stack Web Development using the MERN stack along with Java. After that, I plan to focus more deeply on Full Stack Java Development. I like solving coding problems, learning backend logic, and building projects that give a real-world feel – like OS-style interfaces, APIs, and portfolio websites.<br><br>My goal is to become a strong full-stack developer, build real applications that people can use, and eventually crack top tech companies with great coding and development skills. I believe in consistency, daily practice, and always trying new things in tech.<br><br>“Keep building, keep learning, and never stop improving.”
 
 
