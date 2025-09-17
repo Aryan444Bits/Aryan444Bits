@@ -74,18 +74,6 @@ I enjoy building OS-style interfaces and portfolio websites that provide immersi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan444Bits&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan444Bits&theme=radical&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan444Bits&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
