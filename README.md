@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Java+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 ---
